@@ -3,7 +3,7 @@
 **Backend Developer** — Node.js · TypeScript · PostgreSQL
 
 Desenvolvedor Backend focado em construir APIs robustas, seguras e bem arquitetadas.
-Cursando Engenharia de Software na UGV, com projetos práticos que simulam ambientes corporativos reais.
+Cursando Engenharia de Software na Unicesumar, com projetos práticos que simulam ambientes corporativos reais.
 
 Tenho interesse crescente em **automação industrial e IoT** — e em **Segurança da Informação**,
 áreas que pretendo aprofundar em projetos futuros.
