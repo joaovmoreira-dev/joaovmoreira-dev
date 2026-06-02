@@ -5,9 +5,8 @@
 Desenvolvedor Backend focado em construir APIs robustas, seguras e bem arquitetadas.
 Cursando Engenharia de Software na UGV, com projetos práticos que simulam ambientes corporativos reais.
 
-Tenho interesse crescente em **automação industrial e IIoT** — especificamente na coleta de dados de CLPs
-e sua integração com sistemas de monitoramento em tempo real — e em **Segurança da Informação**,
-área que pretendo aprofundar em projetos futuros.
+Tenho interesse crescente em **automação industrial e IoT** — e em **Segurança da Informação**,
+áreas que pretendo aprofundar em projetos futuros.
 
 ---
 
@@ -78,9 +77,3 @@ A ideia envolve:
 Paulo Frontin, Paraná — Brasil
 
 ---
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovmoreira-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joaovmoreira-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joaovitormoreira5@gmail.com)
